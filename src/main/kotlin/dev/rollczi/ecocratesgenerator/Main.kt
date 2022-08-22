@@ -3,7 +3,7 @@ package dev.rollczi.ecocratesgenerator
 fun main() {
 
     val rewards = listOf(
-        Reward("dirt_id", "&aSuper Dirt", "dirt 1", 50, 10),
+        Reward("dirt_id", "&aSuper Dirt", "stone 1", 100, 20),
         Reward("dirt_id", "&aSuper Dirt", "dirt 1", 80, 10),
         Reward("dirt_id", "&aSuper Dirt", "dirt 1", 30, 10),
         Reward(
