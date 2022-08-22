@@ -4,7 +4,13 @@ fun main() {
         Reward("dirt_id", "&aSuper Dirt", "dirt 1", 50, 10),
         Reward("dirt_id", "&aSuper Dirt", "dirt 1", 50, 10),
         Reward("dirt_id", "&aSuper Dirt", "dirt 1", 50, 10),
-        Reward("dirt_id", "&aSuper Dirt", "dirt 1 mending:1 unbreaking:5 efficiency:5 name:\"<gradient:#4444aa:#111199><b>Mroczny Toporek Drwala\"", 50, 10),
+        Reward(
+            "diamond_axe_night",
+            "<gradient:#4444aa:#111199><b>Mroczny Toporek Drwala",
+            "diamond_axe 1 mending:1 unbreaking:5 efficiency:5 name:\"<gradient:#4444aa:#111199><b>Mroczny Toporek Drwala\"",
+            50,
+            10
+        ),
     )
 
     print("START -----------------------------------------------------\n")
