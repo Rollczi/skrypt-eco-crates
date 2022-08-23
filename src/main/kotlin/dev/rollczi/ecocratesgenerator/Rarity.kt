@@ -1,11 +1,11 @@
 package dev.rollczi.ecocratesgenerator
 
 enum class Rarity(val min: Int, val max: Int, val displayName: String) {
-    COMMON(81, 100, "Zwykły"),
-    UNCOMMON(61, 80, "Niepospolity"),
-    RARE(31, 60, "Rzadki"),
-    EPIC(11, 30, "Epicki"),
-    LEGENDARY(0, 10, "Legendarny");
+    COMMON(66, 100, "Zwykły"),
+    UNCOMMON(36, 65, "Niepospolity"),
+    RARE(16, 35, "Rzadki"),
+    EPIC(6, 15, "Epicki"),
+    LEGENDARY(0, 5, "Legendarny");
 
 
 }
